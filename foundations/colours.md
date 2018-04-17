@@ -14,8 +14,8 @@ The 'variable name' is referred to throughout these digital guidelines.
 
 | **Colour** | **Variable name** | **Hex code** |
 | --- | --- | --- |
-|  | $primaryBlue | `#004687` |
-|  | $primaryGreen | `#469638` |
+| ![](../.gitbook/assets/blue%20%281%29.png) | $primaryBlue | `#004687` |
+| ![](../.gitbook/assets/green.png) | $primaryGreen | `#469638` |
 
 
 
