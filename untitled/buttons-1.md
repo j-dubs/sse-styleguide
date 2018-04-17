@@ -15,5 +15,5 @@ Button labels are always **Sentence case**.
 
 
 
-![](../.gitbook/assets/button-spec.png)
+![](../.gitbook/assets/button-spec%20%281%29.png)
 
