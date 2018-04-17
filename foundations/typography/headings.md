@@ -1,6 +1,6 @@
 # Headings
 
-### Page heading \(H1\)
+## Page heading \(H1\)
 
 ![](../../.gitbook/assets/h1.png)
 
@@ -12,7 +12,7 @@ line-height: 54px;
 color: $primaryBlue or white;
 ```
 
-### Section heading \(H2\)
+## Section heading \(H2\)
 
 ![](../../.gitbook/assets/h2.png)
 
@@ -24,7 +24,7 @@ line-height: 38px;
 color: $primaryBlue or white;
 ```
 
-### Sub-section heading \(H3\)
+## Sub-section heading \(H3\)
 
 ![](../../.gitbook/assets/h3.png)
 
@@ -36,7 +36,7 @@ line-height: 30px;
 color: $primaryBlue or white;
 ```
 
-### Sub-sub section heading \(H4\)
+## Sub-sub section heading \(H4\)
 
 ![](../../.gitbook/assets/h4.png)
 
