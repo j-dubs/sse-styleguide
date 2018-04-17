@@ -21,8 +21,8 @@ SSE's primary brand colors used in all digital products. The primary colours are
 
 These colours complement the primary palette and are used to convey meaning. **Not all secondary colours will be WCAG 2.0 AA contrast compliant when used with white**.
 
-| Colour | Variable name | Example usage | Hex code | WCAG AA compliant |
+| Colour | Variable name | Example usage | Hex code |  |
 | --- | --- | --- |
-| ![](../.gitbook/assets/blue%20%282%29.png) | $secondaryBlue | Calls to action | \#004687 | ![](../.gitbook/assets/tick.svg) |
-| ![](../.gitbook/assets/light-blue.png) | $secondaryBlueLight | Illustrations |  |  |
+| ![](../.gitbook/assets/blue%20%282%29.png) | $secondaryBlue | Calls to action | \#004687 | ![](../.gitbook/assets/tick%20%282%29.png) |
+| ![](../.gitbook/assets/light-blue.png) | $secondaryBlueLight | Illustrations |  | ![](../.gitbook/assets/tick.png) |
 
