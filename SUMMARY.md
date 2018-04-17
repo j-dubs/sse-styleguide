@@ -5,5 +5,6 @@
 * [Change Control](change-control.md)
 * [Foundations](foundations/README.md)
   * [Colours](foundations/colours.md)
+  * [Typography](foundations/typography.md)
   * [Buttons](foundations/buttons-1.md)
 

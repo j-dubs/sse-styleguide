@@ -10,7 +10,7 @@ Colours are referred to throughout these digital guidelines using their **variab
 
 ## Primary colours
 
-SSE's primary brand colors are used in all digital products. **These colours are **[**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)** when contrasted with white.**
+SSE's primary brand colors are used in all digital products. **These colours are **[**WCAG 2.0 AA compliant **↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)** when contrasted with white.**
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | --- | --- | --- |
@@ -19,7 +19,7 @@ SSE's primary brand colors are used in all digital products. **These colours are
 
 ## Secondary colours
 
-These colours complement the primary palette and are used to convey meaning. **Not all secondary colours will be **[**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)** when contrasted with white**.
+These colours complement the primary palette and are used to convey meaning. **Not all secondary colours will be **[**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)[** **↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast) **when contrasted with white**.
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ These colours complement the primary palette and are used to convey meaning. **N
 
 ## Alert colours
 
-Used to convey soft or hard alert or error messages. **These colours are **[**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)** when contrasted with white.**
+Used to convey soft or hard alert or error messages. **These colours are **[**WCAG 2.0 AA compliant **↗](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)** when contrasted with white.**
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | --- | --- | --- |
