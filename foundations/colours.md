@@ -43,7 +43,7 @@ Used to convey soft or hard alert or error messages. **These colours are **[**WC
 
 ## Gradients
 
-Gradients should only be used as decorative elements. **Do not place text over gradients.**
+A gradient should only be used as a decorative element. **Do not place text over gradients.**
 
 | **Gradient** | **Start colour** | **End colour** |
 | --- | --- |
