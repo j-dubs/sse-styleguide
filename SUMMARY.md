@@ -6,5 +6,9 @@
 * [Foundations](foundations/README.md)
   * [Colours](foundations/colours.md)
   * [Typography](foundations/typography.md)
-  * [Buttons](foundations/buttons-1.md)
+* [Components](untitled/README.md)
+  * [Buttons](untitled/buttons-1.md)
+* [Patterns](patterns.md)
+* Templates
+* Pages
 
