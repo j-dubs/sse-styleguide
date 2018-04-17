@@ -5,7 +5,7 @@ description: >-
   work' for our users.
 ---
 
-# Formatting
+# Data Types
 
 ## Numbers & currency
 
