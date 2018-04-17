@@ -8,7 +8,7 @@
 
 Primary style for all body copy and form inputs.
 
-![](../.gitbook/assets/body.png)
+![](../../.gitbook/assets/body.png)
 
 ```css
 font-face: PT Sans;

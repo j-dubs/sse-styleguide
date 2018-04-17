@@ -13,8 +13,7 @@ description: >-
 
 ## Primary Button
 
-* These are action oriented buttons. Think: 'Done', 'Save', 'Next', 'Submit'.
-* Normally the primary positive action in any scenario.
+* These are action oriented buttons. Think: 'Done', 'Save', 'Next', 'Submit' and are normally the primary positive action in any scenario.
 * Some scenarios are more suited to the Secondary button style as the primary positive action, when the action doesn't need to be so prominent.
 * Ideally there should only be one Primary button on any screen/scenario \(the core action to proceed/progress/take action on the page\). If there isn’t any one clear primary action, then consider using one or a combination of the other button styles.
 * Can be used in isolation or in conjunction with other buttons.
