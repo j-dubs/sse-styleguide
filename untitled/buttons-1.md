@@ -1,4 +1,15 @@
+---
+description: >-
+  There are 5 types of buttons: Primary, Secondary, Tertiary, Link and Icon &
+  Link. Each button style has up to 5 states, including: normal, hover, active,
+  loading and disabled.
+---
+
 # Buttons
+
+{% hint style="info" %}
+Note: All CSS shown is for guiding purposes, it's not absolute. It's intended to help designers foster a greater understanding of both CSS and the specifications.
+{% endhint %}
 
 ## Labels
 
