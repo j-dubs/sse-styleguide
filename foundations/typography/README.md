@@ -23,5 +23,5 @@ Used for body copy, captions etc. This is a free font which can be downloaded fr
 
 
 
-![PT Sans comes in two weights.](../../.gitbook/assets/pt-sans.png)
+![](../../.gitbook/assets/pt-sans.png)
 
