@@ -86,11 +86,3 @@ Styling is as 'normal state' with the following overrides:
 background-color: #F5F5F5;
 ```
 
-## Chris' lunch
-
-oksjdfjsdf
-
-{% hint style="info" %}
-don't eat yellow snow
-{% endhint %}
-
