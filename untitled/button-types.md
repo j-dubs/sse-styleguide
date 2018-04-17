@@ -45,8 +45,6 @@ background-color: #0066CC;
 
 ![](../.gitbook/assets/secondary-button%20%281%29.png)
 
-### Normal State
-
 ```css
 /* Normal */
 font-face: Museo Sans Rounded;
@@ -63,4 +61,6 @@ background-color: rgba(255,255,255,.8);
 /* Clicked */
 background-color: #F5F5F5;
 ```
+
+
 
