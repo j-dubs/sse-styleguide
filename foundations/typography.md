@@ -29,23 +29,27 @@ Used for body copy, captions etc. This is a free font which can be downloaded fr
 
 ### Page heading \(H1\)
 
-![](../.gitbook/assets/h1.png)
+![Page headings can be blue or white, depending on context &amp; execution.](../.gitbook/assets/h1.png)
 
 ```css
 font-face: Museo Sans Rounded;
 font-weight: 300;
 font-size: 48px;
 line-height: 54px;
-color: $primaryBlue;
+color: $primaryBlue or white;
 ```
 
 ### Section heading \(H2\)
+
+
+
+![](../.gitbook/assets/h2.png)
 
 ```css
 font-face: Museo Sans Rounded;
 font-weight: 500;
 font-size: 32px;
 line-height: 38px;
-color: $primaryBlue;
+color: $primaryBlue or white;
 ```
 
