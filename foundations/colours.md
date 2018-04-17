@@ -36,10 +36,16 @@ These colours complement the primary palette and are used to convey meaning. **N
 
 Used to convey soft or hard alert or error messages. **These colours are **[**WCAG 2.0 AA compliant**](https://www.w3.org/TR/WCAG20/#visual-audio-contrast)** when contrasted with white.**
 
-| Colour | Variable name | Example usage | Hex code |
+| **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | --- | --- | --- |
-| ![](../.gitbook/assets/red%20%282%29.png) | $alertOrange | Soft notifications | `#FFB100` |
+| ![](../.gitbook/assets/orange.png) | $alertOrange | Soft warnings | `#FFB100` |
 | ![](../.gitbook/assets/red.png) | $alertRed | Hard warnings or errors | `#E62128` |
 
+## Gradients
 
+Gradients should only be used as decorative elements. **Do not place text over gradients.**
+
+| **Gradient** | **Start colour** | **End colour** |
+| --- | --- |
+| ![](../.gitbook/assets/digital-gradient.png) | `#004687` | `#7DC242` |
 
