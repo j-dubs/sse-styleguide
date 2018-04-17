@@ -14,7 +14,7 @@ SSE's primary brand colors are used in all digital products. **These colours are
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | --- | --- | --- |
-| ![](../.gitbook/assets/blue.png) | $primaryBlue | Headings, labels, titles | `#004687` |
+| ![](../.gitbook/assets/blue%20%281%29.png) | $primaryBlue | Headings, labels, titles | `#004687` |
 | ![](../.gitbook/assets/green%20%282%29.png) | $primaryGreen | Icons, bullet points, highlights | `#469638` |
 
 ## Secondary colours
@@ -23,7 +23,7 @@ These colours complement the primary palette and are used to convey meaning. **N
 
 | **Colour** | **Variable name** | **Example usage** | **Hex code** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ![](../.gitbook/assets/blue%20%282%29.png) | $secondaryBlue | Calls to action | `#004687` |
+| ![](../.gitbook/assets/blue%20%283%29.png) | $secondaryBlue | Calls to action | `#004687` |
 | ![](../.gitbook/assets/light-blue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
 | ![](../.gitbook/assets/dark-green.png) | $secondaryGreen | Illustrations | `#004B1C` |
 | ![](../.gitbook/assets/light-green.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
