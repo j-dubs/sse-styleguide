@@ -21,8 +21,17 @@ SSE's primary brand colors used in all digital products. The primary colours are
 
 These colours complement the primary palette and are used to convey meaning. **Not all secondary colours will be WCAG 2.0 AA contrast compliant when used with white**.
 
-| Colour | Variable name | Example usage | Hex code |  |
-| --- | --- | --- |
-| ![](../.gitbook/assets/blue%20%282%29.png) | $secondaryBlue | Calls to action | \#004687 | ![](../.gitbook/assets/tick%20%282%29.png) |
-| ![](../.gitbook/assets/light-blue.png) | $secondaryBlueLight | Illustrations |  | ![](../.gitbook/assets/tick.png) |
+| Colour | Variable name | Example usage | Hex code |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ![](../.gitbook/assets/blue%20%282%29.png) | $secondaryBlue | Calls to action | `#004687` |
+| ![](../.gitbook/assets/light-blue.png) | $secondaryLightBlue | Illustrations | `#A0C6E9` |
+| ![](../.gitbook/assets/dark-green.png) | $secondaryGreen | Illustrations | `#004B1C` |
+| ![](../.gitbook/assets/light-green.png) | $secondaryLightGreen | Illustrations | `#B2D235` |
+| ![](../.gitbook/assets/dark-grey.png) |  |  |  |
+| ![](../.gitbook/assets/grey.png) |  |  |  |
+| ![](../.gitbook/assets/mid-grey.png) |  |  |  |
+| ![](../.gitbook/assets/light-grey.png) |  |  |  |
+| ![](../.gitbook/assets/red.png) |  |  |  |
+
+
 
