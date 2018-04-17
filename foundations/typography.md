@@ -15,7 +15,7 @@ SSE Digital products use Museo Sans Rounded and PT Sans.
 
 Used for headings, sub-headings and buttons. This is a commercial font which cannot be downloaded for free. If you need Museo installed on your machine, speak to a member of the UX team.
 
-![](../.gitbook/assets/museo-sans%20%282%29.png)
+![Museo Sans Rounded comes in four weights.](../.gitbook/assets/museo-sans%20%282%29.png)
 
 ### PT Sans
 
@@ -23,13 +23,13 @@ Used for body copy, captions etc. This is a free font which can be downloaded fr
 
 
 
-![](../.gitbook/assets/pt-sans.png)
+![PT Sans comes in two weights.](../.gitbook/assets/pt-sans.png)
 
 ## Heading styles
 
 ### Page heading \(H1\)
 
-![Page headings can be blue or white, depending on context &amp; execution.](../.gitbook/assets/h1.png)
+![](../.gitbook/assets/h1.png)
 
 ```css
 font-face: Museo Sans Rounded;
@@ -41,8 +41,6 @@ color: $primaryBlue or white;
 
 ### Section heading \(H2\)
 
-
-
 ![](../.gitbook/assets/h2.png)
 
 ```css
@@ -50,6 +48,30 @@ font-face: Museo Sans Rounded;
 font-weight: 500;
 font-size: 32px;
 line-height: 38px;
+color: $primaryBlue or white;
+```
+
+### Sub-section heading \(H3\)
+
+![](../.gitbook/assets/h3.png)
+
+```css
+font-face: Museo Sans Rounded;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+color: $primaryBlue or white;
+```
+
+### Sub-sub section heading \(H4\)
+
+![](../.gitbook/assets/h4.png)
+
+```css
+font-face: Museo Sans Rounded;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
 color: $primaryBlue or white;
 ```
 
