@@ -2,6 +2,9 @@
 
 ## Page heading \(H1\)
 
+* Main page title
+* Should only be used once on a screen/page
+
 ![](../../.gitbook/assets/h1.png)
 
 ```css
