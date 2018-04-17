@@ -1,7 +1,3 @@
----
-description: The digital brand color palette is shared across all SSE products.
----
-
 # Colours
 
 ## Use of colours
