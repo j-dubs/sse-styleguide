@@ -10,7 +10,7 @@ description: >-
 
 #### Skip to:
 
-* Colours
-* Buttons
-* Typography
+* [Colours ↗](https://sse-digital.gitbook.io/ui-styleguide/~/edit/primary/foundations)
+* Buttons ↗
+* Typography ↗
 
