@@ -6,5 +6,3 @@ description: Description of page goes here
 
 Content goes here
 
-
-

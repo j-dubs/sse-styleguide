@@ -1,9 +1,3 @@
----
-description: >-
-  Buttons are used to start, continue or complete a process. Do not use buttons
-  for navigation.
----
-
 # Buttons
 
 ## Labels
@@ -21,7 +15,7 @@ Button labels are always **Sentence case**.
 
 
 
-![](.gitbook/assets/button-spec.png)
+![](../.gitbook/assets/button-spec.png)
 
 ## Primary Button
 
@@ -29,7 +23,7 @@ Primary buttons start, continue, progress or complete a process. On any given pa
 
 
 
-![](.gitbook/assets/primary-button.png)
+![](../.gitbook/assets/primary-button.png)
 
 ### Normal State
 
@@ -62,7 +56,7 @@ background-color: #0066CC;
 
 Secondary buttons are used in conjunction with primary buttons to indicate other areas of functionality. They are also used to go back or indicate a 'negative' action. Multiple secondary buttons can exist on a single page.
 
-![](.gitbook/assets/secondary-button%20%281%29.png)
+![](../.gitbook/assets/secondary-button%20%281%29.png)
 
 ### Normal State
 
