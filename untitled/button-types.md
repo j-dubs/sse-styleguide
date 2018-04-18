@@ -61,9 +61,5 @@ background-color: rgba(255,255,255,.8);
 background-color: #F5F5F5;
 ```
 
-## Tertiary Button
-
-{% page-ref page="../" %}
-
 
 
