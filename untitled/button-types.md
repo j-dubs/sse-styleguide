@@ -38,9 +38,9 @@ background-color: #0066CC;
 
 ## Secondary Button
 
-* Similar to the [Primary](http://plasma.guide/buttons/#primary-button) button, but intended to play a more supportive or less important action button role. Consider using the Secondary button style for things like ‘Edit’ buttons. The philosophy being, 'Edit' is a positive action, but not the definitive action, which would be saving the edit you made in the next step, therefor a Secondary action is more appropriate, and reserve a Primary action for the 'Save' or 'Done' step.
-* Well suited to situations where there are multiple call to actions present \(e.g. when there are a multiple buttons, all with equal weighting\). In this case you could pair a Secondary button with a [Primary](http://plasma.guide/buttons/#primary-button) button.
-* Can be used in isolation or in conjunction with a [Primary](http://plasma.guide/buttons/#primary-button), or [Link style](http://plasma.guide/buttons/#link-button) button.
+* Similar to the Primary button, but intended to play a more supportive or less important action button role. Consider using the Secondary button style for things like ‘Edit’ buttons. The philosophy being, 'Edit' is a positive action, but not the definitive action, which would be saving the edit you made in the next step, therefor a Secondary action is more appropriate, and reserve a Primary action for the 'Save' or 'Done' step.
+* Well suited to situations where there are multiple call to actions present \(e.g. when there are a multiple buttons, all with equal weighting\). In this case you could pair a Secondary button with a Primary button.
+* Can be used in isolation or in conjunction with a Primary, or Link style button.
 
 ![](../.gitbook/assets/secondary-button%20%281%29.png)
 
@@ -59,6 +59,10 @@ background-color: rgba(255,255,255,.8);
 
 /* Clicked */
 background-color: #F5F5F5;
+```
+
+```markup
+jguguhg
 ```
 
 
